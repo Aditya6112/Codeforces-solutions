@@ -1,0 +1,1 @@
+{"name":"Local: p1","url":"c:\\Users\\Aditya\\Desktop\\codevita\\p1.cpp","tests":[{"id":1711811477733,"input":"3\n2 2\n3 1\n3 2","output":"1 1\n69420 69 420\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Aditya\\Desktop\\codevita\\p1.cpp","group":"local","local":true}
